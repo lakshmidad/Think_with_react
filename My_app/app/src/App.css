@@ -1,0 +1,14 @@
+/* Make the text aligned center */
+
+div{
+  text-align: center;
+  background-color: black;
+  height: 100vh;
+  padding: 20px;
+}
+/* Add colour to the headings */
+h1,h2{
+  color: white;
+  
+}
+
